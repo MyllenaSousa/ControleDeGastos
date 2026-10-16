@@ -5,6 +5,8 @@ Aplicativo de console em **Java** para registrar e acompanhar seus gastos do dia
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
 ![License](https://img.shields.io/badge/licença-MIT-blue)
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2d679ddd-b684-45d4-b3c1-ab8e3327ad91" />
+
 ## Funcionalidades
 
 - ➕ Adicionar, listar, editar e remover despesas
